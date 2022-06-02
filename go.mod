@@ -1,6 +1,6 @@
 module github.com/djthorpe/gopi/v3
 
-go 1.13
+go 1.18
 
 require (
 	github.com/djthorpe/data v0.0.1
